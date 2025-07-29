@@ -3,7 +3,7 @@ Exploring AI & Data Science<br>Engineering Practical ML Solutions from the Groun
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roogved.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rugved Kulkarni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spamrugved@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roogved.k) [![LinkedIn][]](https://www.linkedin.com/in/rugved-kulkarni-9a4a812b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)(https://linkedin.com/in/Rugved Kulkarni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spamrugved@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
